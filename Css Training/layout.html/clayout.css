@@ -1,0 +1,30 @@
+body{
+    background-color:grey;
+    
+}
+.search{
+    float: right;
+}
+body{
+    background-color: grey;
+}
+.productimg{
+    float: left;
+    text-align: center;
+    width: 25%;
+    
+    
+}
+.productimg img{
+    width: 100px;
+
+}
+
+.pimg{
+    float: left;
+    text-align: center;
+    width:33%;
+}
+.pimg img{
+    width: 100px;
+}

@@ -1,0 +1,18 @@
+body{
+     background-color: plum;
+     }
+     header{
+        background-color: goldenrod;height: 100px;
+     }
+     nav{
+        background-color: yellowgreen;height: 150px;
+        
+     }
+     main{
+        background-color: blueviolet;height: 120px;
+        
+     }
+     footer{
+        background-color: brown;height: 90px;
+        height: 30;
+     }

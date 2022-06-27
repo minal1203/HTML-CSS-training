@@ -1,0 +1,65 @@
+body{
+    background-color:white;
+}
+.logo{
+    float: left;
+}
+.search{
+    float : right;  
+    overflow: hidden;
+}
+header{
+    height: 35px;
+    width:100%;
+    background-color: aqua;
+    border-bottom: 2px solid black
+}
+ .nav{
+    text-align: center;
+    color: brown;
+    border-bottom:2px solid black;
+    margin: 0px;
+ }
+ .nav1{
+    border: 2px solid black;
+    padding: 15px;
+    display: inline-block;
+    text-align: center;
+    color: black;
+    margin:0;
+ }
+main{
+    background-color: white;
+    overflow: hidden;
+}
+.leftcontent{
+    width: 20%;
+    border-bottom: 2px;
+    float: left;
+    padding: 10px;
+    border-bottom: 10px;
+}
+.middlecontent{
+    float: left;
+    width:60%;
+    height: 290px;
+    padding: 10px;
+}
+.rightc{
+    float: right;
+    width: 20%;
+    text-align: center;
+}
+.rightc .product{
+    border:10px solid black;
+    width: 120px;
+    padding: 10px;
+    margin: 5px;
+    display: inline-block;
+    
+}
+.footer{
+    background-color: aqua;
+    text-align: center;
+
+}

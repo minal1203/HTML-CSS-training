@@ -1,0 +1,61 @@
+body{
+    background-color: white;
+}
+header{
+    background-color: aqua;
+    padding: 30px;
+}
+nav{
+    background-color: blueviolet;
+    padding: 15px;
+    height: 30px;
+}
+main{
+    background-color: greenyellow;
+    padding: 20px; 
+}
+footer{
+    background-color: skyblue;
+    padding: 18px;
+    overflow: hidden;
+}
+.main{
+    text-align: left;
+    font-size: xx-large;
+    height: 600px;
+}
+.column{
+    background-color: aliceblue;
+    float: left;
+    width: 33%;
+    border: 2px solid red;
+    padding: 3px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.row2.col1{
+    background-color: aliceblue;
+    float: left;
+    width: 70%;
+    border: 2px solid red;
+    padding:20px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.row2.col2{
+    background-color: aliceblue;
+    float: left;
+    width: 30%;
+    border: 2px solid red;
+    padding:10px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.mainrow3{
+    overflow: hidden;
+}
+.mainrow3.one{
+    width: 80%;
+    padding:30px;
+
+}
