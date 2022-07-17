@@ -1,0 +1,37 @@
+body{
+    margin: 0px auto;
+}
+.left-site{
+     width: 90%;
+     margin: 0px 40px 0px 40px auto;
+     margin-left: 50px;
+     height: 500px;
+     background-color: aqua;
+}
+.announce{
+    display: flex;
+}
+.left-announce{
+    width: 700px;
+    height: 140px
+    float: left;
+    text-transform: uppercase;
+    vertical-align: middle;
+    position: absolute;
+}
+
+.left-para-announce{
+    height: 100px;
+    box-sizing: border-box;
+    background-color: #00095b;
+    float: left;
+    align-content: center;
+    position: relative;
+    color: aliceblue;
+    margin-left: 50px;
+}
+.right-announce{
+    float: right;
+    height: 100px;
+    background-color: greenyellow;
+}

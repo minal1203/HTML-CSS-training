@@ -1,0 +1,102 @@
+body{
+    margin: 0 auto;
+}
+.header{
+    width: 100%;
+    background-color: white;
+}
+
+.main{
+    width: 100%;
+    height: 500px;
+    background-color:white;
+}
+.r-img{
+    float: right;
+    margin-top: 20px;
+    margin-right: 140px;
+}
+.list{
+    font-size: x-large;
+    white-space: 2px;
+    color: blueviolet;
+    box-sizing: border-box;
+    background-color: rgb(244, 235, 235);
+    padding: 10px;
+    margin-top: 10px;
+}
+.ol-list{
+    box-sizing: border-box;
+    background-color: gray;
+    color: blueviolet;
+}
+.list2{
+    box-sizing: border-box;
+    background-color: rgb(244, 235, 235);
+    color: blueviolet;
+    padding: 10px;
+    margin-bottom: 2px;
+}
+.list3{
+    box-sizing: border-box;
+    background-color: rgb(244, 235, 235);
+    color: blueviolet;
+    padding: 10px;
+    margin-bottom: 2px;
+}
+.list4{
+    box-sizing: border-box;
+    background-color: rgb(244, 235, 235);
+    color: blueviolet;
+    padding: 10px;
+    margin-bottom: 2px;
+}
+.list5{
+    box-sizing: border-box;
+    background-color: rgb(244, 235, 235);
+    color: blueviolet;
+    padding: 10px;
+    margin-bottom: 2px;
+    font-weight:200px;
+}
+.l-img{
+    margin-left: 150px;
+}
+.leftimg{
+    width: 20%;
+    height: 200px;
+    margin-top: 30px;
+}
+.heading{
+    float: right;
+    margin-right: 300px;
+    
+   
+}
+.para1{
+    width: 30%;
+   float: right;
+   margin-top: -150px;
+   margin-right: 160px;
+   font-size: large;
+   color: gray;
+   
+}
+.l2-img{
+    height: 200px;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+.head2{
+    width: 30%;
+    float: right;
+    margin-right: 170px;
+}
+.para2{
+    width: 30%;
+    float: right;
+    margin-right: 730px;
+    margin-top: -130px;
+    font-size: large;
+   color: gray;
+}

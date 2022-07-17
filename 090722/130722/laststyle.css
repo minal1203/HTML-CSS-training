@@ -1,0 +1,27 @@
+body{
+    margin: 0 auto;
+}
+.top-header{
+    max-width: 1300px;
+    margin: 0 auto;
+    height: 60px;
+    background: gold;
+    display: flex;
+}
+.top-header-left{
+    width: 20%;
+    float: left;
+    margin-top: 10px;
+}
+.top-header-right{
+    width: 70%;
+    float: right;
+
+}
+.list-item{
+    float: right;
+    list-style: none;
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: aqua;
+}

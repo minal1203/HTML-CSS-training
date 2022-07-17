@@ -1,0 +1,141 @@
+body{
+    background-color: lightgreen;
+    margin: 0px;
+}
+header{
+     font: caption;
+    color: grey;
+    font-style: italic;
+    background-color:rgb(26, 42, 2);
+    height: 50px;
+    padding: 20px;
+    margin: 0px;
+    width: 100%;
+    font-style: italic;
+    position: fixed;
+    overflow: hidden;
+}
+.main{
+    height: 2000px;
+}
+.column{
+    float: left;
+    width: 25%;
+    font-size:large ;
+    box-sizing: border-box;
+    padding-left: 30px;
+    background-color:white;
+    text-align: center;
+    padding-top: 10px;
+    font-style: bold;
+    overflow: hidden;
+}
+.banner{
+    height: 600px;
+    width; 100%;
+    overflow: hidden;
+}
+.img2{
+    float: right;
+    width: 30%;
+    height: 200px;
+    padding-left: 50px;
+    margin: 20px;
+    margin-top: 50px;
+    text-align: center;
+    font-style: oblique;
+}
+.my2{
+    text-align: center;
+    background-color: wheat;
+}
+.my2:hover{
+    background-color: palevioletred
+}
+.img3{
+    float: right;
+    width: 30%;
+    height: 200px;
+    margin: 20px;
+    padding: 20px;
+    margin-right: 0px;
+    text-align: center;
+    font-style: oblique;
+    
+}
+.my3{
+    text-align: center;
+    background-color: wheat;
+}
+.my3:hover{
+    background-color: aqua;
+}
+.img1{
+    width: 30%;
+    height: 200px;
+    margin: 20px;
+    padding: 20px;
+    font-style: oblique;
+    margin-left: 40px;
+    text-align: center;
+   
+}
+.myp{
+    text-align: center;
+    background-color: wheat;
+    overflow: hidden;
+}
+.myp:hover{
+    background-color: aqua;
+    
+}
+.rimg{
+    margin-top: 200px;
+    width: 90%;
+    height: 300;
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 30px;
+    overflow: hidden;
+ 
+}
+.wrapper{
+    float: left;
+    font-size: larger;
+    font-style: oblique;
+    width: 50%;
+    height: 300px;
+    margin-top: 30px;
+    overflow: hidden;
+    
+}
+.hover1:hover{
+    background-color: brown;
+}
+.rimg2{
+    float: left;
+    margin-top: 200px;
+    width: 90%;
+    height: 300;
+    margin-left: 20px;
+    margin-right: 40px;
+ 
+}
+.wrapper2{
+    float: right;
+    font-size: larger;
+    font-style: oblique;
+    width: 50%;
+    height: 300px;
+    margin-top: 30px;
+
+    
+}
+.hover2:hover{
+    background-color: brown;
+}
+.footer{
+    background-color: gray;
+    height: 25px;
+    text-align: center;
+}

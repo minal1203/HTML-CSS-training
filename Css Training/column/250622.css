@@ -1,0 +1,62 @@
+body{
+    background-color: white;
+}
+header{
+    background-color: aqua;
+    padding: 30px;
+}
+nav{
+    background-color: blueviolet;
+    padding: 15px;
+    height: 30px;
+}
+main{
+    background-color: greenyellow;
+    padding: 20px; 
+}
+footer{
+    background-color: skyblue;
+    padding: 18px;
+    overflow: hidden;
+}
+.main{
+    text-align: left;
+    font-size: xx-large;
+    height: 600px;
+}
+.column{
+    background-color: aliceblue;
+    float: left;
+    width: 33%;
+    border: 2px solid red;
+    padding: 3px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.col{
+    float: left;
+    background-color: aliceblue;
+    border: 2px solid red;
+    box-sizing: border-box;
+    width: 20%;
+    padding:5px;
+    margin-top: 15px;
+}
+.row2{
+    width: 100%;
+}
+.row2.icon1{
+    float: left;
+    background-color: aliceblue;
+    border: 2px solid red;
+    box-sizing: border-box;
+    width: 20%;
+    padding:5px;
+    margin-top: 15px;
+}
+.cl.icon2{
+    float: left;
+    width: 10%;
+    background-color: antiquewhite;
+    box-sizing: border-box;
+}

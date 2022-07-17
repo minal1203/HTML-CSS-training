@@ -1,0 +1,24 @@
+.name:focus{
+    background-color: aqua;
+}
+.name:hover{
+    background-color: palevioletred;
+}
+.list:first-child{
+    font-size: x-large;
+    border: 2px orange;
+    color: green;
+}
+.joinBtn{
+    width: 10em;
+    height: 5ex;
+    background-image: linear-gradient(135deg, #5b0621 40%, #fc894d);
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+.joinBtn:active {
+    box-shadow: 2px 2px 5px #fc894d;
+}
