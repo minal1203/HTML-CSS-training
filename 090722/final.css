@@ -89,7 +89,7 @@ body{
     width: 25%;
     float: right;
     margin-top: 30px;
-    background-color:#f1f1f1;
+    background-color:#f2f2f2
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -108,8 +108,9 @@ body{
 }
 .bookmark1{
     float: left;
-    height: 25px;
+    height: 20px;
     margin-top: 20px;
+    background-color: #f2f2f2;
 
 }
 .bookmark2{
@@ -120,6 +121,7 @@ body{
 }
 .book{
     float: left;
+    margin-left: 5px;
     color: #00095b;
     
 }
@@ -380,7 +382,10 @@ body{
     
     
 }
-
+.all-icon{
+    margin: 0%;
+    padding: 0%;
+}
 
 
 
@@ -408,39 +413,40 @@ body{
     text-transform: uppercase;
 }
 .f-girl{
-    height: 150px;
-    margin-left: 540px;
-    margin-top: -350px;
+    height: 149px;
+    margin-left: 510px;
+    margin-top: -390px;
+    margin-bottom: 18px;
 }
 .fgirl-t{
     float: right;
     box-sizing: border-box;
     background-color: #00095b;
     color:white;
-    width: 30%;
+    width: 28%;
     margin-right: 10px;
-    height: 150px;
+    height: 149px;
     text-transform: uppercase;
     text-align: center;
     padding: 40px 10px ;
-    margin-top: -150px;
+    margin-top: -170px;
     font-family: Arial, Helvetica, sans-serif;
 }
 .gray2{
     float: right;
-    margin-right: 460px;
+    margin-right: 380px;
     height: 50px;
     margin-top: -50px;
     overflow: hidden;
 }
 .gray1{
-    margin-left: 330px;
+    margin-left: 410px;
     height: 50px;
     margin-top: 20px;
     overflow: hidden;
 }
 .num{
-    margin-left: 400px;
+    margin-left: 480px;
     margin-top: -40px;
     overflow: hidden;
 }
